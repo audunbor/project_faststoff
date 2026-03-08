@@ -1,2 +1,2 @@
-#Laboratory Exercise in TFY4220 Solid State Physics
+# Laboratory Exercise in TFY4220 Solid State Physics
 X-Ray Diffraction
